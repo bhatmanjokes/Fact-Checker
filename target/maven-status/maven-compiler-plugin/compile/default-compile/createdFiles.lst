@@ -1,0 +1,5 @@
+FactChecker\fact_checker\FactCheck.class
+FactChecker\fact_checker\LineProcessing.class
+FactChecker\fact_checker\WriteFile.class
+FactChecker\fact_checker\ReadFile.class
+FactChecker\fact_checker\Wiki.class
